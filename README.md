@@ -34,6 +34,12 @@ Seguindo para a instalação dos requisitos de módulos.
 pip3 install -r requirements.txt
 ```
 
+Testando:
+```sh
+python face_recognition_img.py
+```
+A seguir, abra a pasta dos arquivos, vá para "templates" e selecione uma das fotos em jpeg para testar.
+
 *Agora basta abrir os arquivos no seu editor de texto favorito e rodá-los, ou apenas executar direto do terminal com `python face_recognition_img.py`*
 
 ### Windows:
@@ -55,6 +61,12 @@ Seguindo para a instalação dos requisitos de módulos.
 ```sh
 pip3 install -r requirements.txt
 ```
+
+Testando:
+```sh
+python face_recognition_img.py
+```
+A seguir, abra a pasta dos arquivos, vá para "templates" e selecione uma das fotos em jpeg para testar.
 
 *Agora basta abrir os arquivos no seu editor de texto favorito e rodá-los, ou apenas executar direto do terminal com `python face_detection.py`*
 
