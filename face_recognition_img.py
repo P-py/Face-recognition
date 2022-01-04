@@ -7,7 +7,7 @@ root = tkinter.Tk()
 root.withdraw()
 
 # Load the cascade
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('./templates/haarcascade_frontalface_default.xml')
 
 # Ask the user for image input
 filepath = filedialog.askopenfilename()
