@@ -1,5 +1,7 @@
-# EncryptingCommunication
+# FaceRecognition
 > Face-recognition é um script de visão computacional capaz de reconhecer rostos em imagens (face_detection_img.py) ou vídeos de dispositivos de entrada (face_detection.py) - como webcams.
+
+##### DESCONTINUADO - Esse repositório não receberá novas atualizações.
 
 O programa se baseia no módulo/biblioteca utilizando os métodos de tal para reconhecimento facial, cascade-based training e entre outras necessidades para realização da detecção. 
 
